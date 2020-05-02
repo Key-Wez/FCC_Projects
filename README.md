@@ -1,8 +1,8 @@
 # freeCodeCamp (FCC) Projects
 
-[freeCodeCamp](https://www.freecodecamp.org/) (also referred to as “Free Code Camp”) is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone. [wikipedia](https://en.wikipedia.org/wiki/FreeCodeCamp)
-
 This repo allows me to learn more about Git/Github. And is where I intend to store my Free Code Camp Projects (and variations).
+
+[freeCodeCamp](https://www.freecodecamp.org/) (also referred to as “Free Code Camp”) is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone. [wikipedia](https://en.wikipedia.org/wiki/FreeCodeCamp)
 
 ## 01 - Responsive Web design projects
 
@@ -18,7 +18,7 @@ Free Code Camps link for the technical requierement for the Web design projects:
 
 | id  | Name                    |                     My Project Location                      |                            Demo                            |
 | :-: | :---------------------- | :----------------------------------------------------------: | :--------------------------------------------------------: |
-| 1.1 | Tribute Page            |         [Tribute Page](./01_WebDesign/1_TributePage)         | [Live Demo\*](https://codepen.io/freeCodeCamp/full/zNqgVx) |
+| 1.1 | Tribute Page            |        [Tribute Page](./01_WebDesign/01_TributePage)         | [Live Demo\*](https://codepen.io/freeCodeCamp/full/zNqgVx) |
 | 1.2 | Survey Form             |         [Survey Form](./01_WebDesign/02_SurveyForm)          | [Live Demo\*](https://codepen.io/freeCodeCamp/full/VPaoNP) |
 | 1.3 | Product Landing Page    | [Product Landing Page](./01_WebDesign/03_ProductLandingPage) | [Live Demo\*](https://codepen.io/freeCodeCamp/full/RKRbwL) |
 | 1.4 | Technical Documentation |  [Technical Documentation](./01_WebDesign/04_TechnicalDoc)   | [Live Demo\*](https://codepen.io/freeCodeCamp/full/NdrKKL) |
